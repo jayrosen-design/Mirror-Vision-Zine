@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17507626.svg)](https://doi.org/10.5281/zenodo.17507626)
+
 # Mirror Vision Zine (2018)
 
 A digital version of the "Mirror Vision Zine (2018)" by Jay Rosen.
